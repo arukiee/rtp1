@@ -1,12 +1,28 @@
-# React + Vite
+SmartFind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
 
-Currently, two official plugins are available:
+SmartFind is an AI-powered shopping assistant that helps users find the best products at the lowest prices across multiple platforms using image, text, and voice search.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It simplifies decision-making by combining price comparison, review analysis, and intelligent recommendations in one place.
 
-## Expanding the ESLint configuration
+⸻
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Features
+
+* Multi-modal search (image, voice, text)
+* Real-time price comparison
+* AI-based review analysis (fake review detection, summary, trust score)
+* Price drop alerts
+* Second-hand and refurbished product suggestions
+* Personalized recommendations
+
+⸻
+
+How It Works
+
+1. User inputs a product (image, voice, or text)
+2. System processes input using AI models
+3. Data is collected from multiple platforms
+4. Prices and reviews are analyzed
+5. Best options are displayed to the user
